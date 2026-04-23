@@ -2,9 +2,14 @@
 I’m Rankit Das, an AI enthusiast working on intelligent systems that solve real problems. My projects include deep learning pipelines, Flask-based APIs, Random Forest prediction models, and a 200GB-trained breast cancer detection system deployed in medical testing.<br><br>I enjoy combining machine learning + cloud + full-stack development, and I’m actively researching deep learning trends for my paper:<br>“A Survey on Deep Learning: Algorithms, Techniques, and Applications – Recent Advances on Cloud Computing.”<br><br>My GitHub is where I experiment, build, break, learn, and improve.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rankit Das) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_always_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rankit-das) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Rankit Das) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rankitdas9211) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dasrankit2018@gmail.com) 
+### 🌐 Connect with me
 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/RankitDas)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ig_always_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rankit-das)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/RankitDas)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/user/rankitdas9211)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dasrankit2018@gmail.com)
 # 💻 Tech Stack:### 🧠 Core Stack
 
 **Languages**  
